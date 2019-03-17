@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-export APP_PROJECT='personal-slack-stuff'
-
 deploy() {
 
   

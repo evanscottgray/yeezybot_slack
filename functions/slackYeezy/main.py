@@ -16,9 +16,6 @@ import requests
 from flask import request
 from flask import jsonify
 
-SLACK_API_URL = 'https://YOUR_SLACK_URL.slack.com/api/%s'
-SLACK_TOKEN = 'xoxp-just-insert-your-slack-key'
-
 def handleRequest(request):
     resp = {'status': 'OK'}
     json = request.json

@@ -31,3 +31,8 @@ setup slack app:
 3. go to "slash commands", create new command
 4. add in url from ngrok, or from google cloud functions, add /command like /kanye or something, then save
 5. go test.
+
+
+
+
+special thanks to ajzbc who makes this possible with kanye.rest: https://github.com/ajzbc/kanye.rest

@@ -32,7 +32,8 @@ setup slack app:
 4. add in url from ngrok, or from google cloud functions, add /command like /kanye or something, then save
 5. go test.
 
+optional: go to bot configuration and add a cool icon.
 
-
+![slack](https://user-images.githubusercontent.com/1891697/54496375-960d0d00-48bc-11e9-9ed3-1a01dde75480.png)
 
 special thanks to ajzbc who makes this possible with kanye.rest: https://github.com/ajzbc/kanye.rest
